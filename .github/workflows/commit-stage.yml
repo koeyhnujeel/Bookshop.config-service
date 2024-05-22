@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: config-service
+  IMAGE_NAME: koeyhnujeel/config-service
   VERSION: latest
 
 jobs:
